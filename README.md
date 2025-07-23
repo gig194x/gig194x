@@ -55,3 +55,7 @@
 
 ###
 
+## 🐍 Snake Game Animation
+
+![snake gif](https://github.com/gig194x/gig194x/blob/output/snake.svg)
+
