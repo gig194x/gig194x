@@ -51,7 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gig194x/gig194x/output/snake.svg" alt="Snake animation" />
 
 ###
 
