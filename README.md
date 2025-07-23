@@ -58,6 +58,6 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gig194x.gig194x&left_color=lightblue&right_color=lightblue&left_text=Profile%20Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gig194x.gig194x&left_color=blue&right_color=blue&left_text=Profile%20Views" />
 </div>
 
